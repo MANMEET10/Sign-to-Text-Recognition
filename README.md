@@ -1,1 +1,2 @@
 # Sign-to-Text-Recognition
+For interaction between normal people and D&M people a language barrier is treated as a sign language structure which is different from normal text. So they depend on vision based communication for interaction. If there is a common interface that converts the sign language to text the gestures can be easily understood by the other people. So research has been made for a vision based interface system where D&M people can enjoy communication without really knowing each other's language.
